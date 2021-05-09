@@ -1,0 +1,21 @@
+Luke DarthVader
+Leia Luke
+HanSolo LandoCalrissian
+R2D2 C3PO
+Luke Leia HanSolo Chewbacca
+R2D2 Luke
+R2D2 C3PO
+C3PO Luke
+C3PO R2D2 DarthVader
+Yoda Luke
+Leia HanSolo
+C3PO DarthVader
+C3PO Luke
+Padme DarthVader
+ObiWan DarthVader
+ObiWan Luke DarthMaul JarJar QuiGonJinn SenatorPalpatine C3PO R2D2 Yoda
+HanSolo KyloRen Leia
+HanSolo Leia Organa
+HanSolo Luke
+Chewbacca Luke
+KyloRen Luke
